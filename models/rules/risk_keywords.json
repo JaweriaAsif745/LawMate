@@ -1,0 +1,5 @@
+{
+  "high": ["penalty", "liability", "terminate", "termination", "indemnify", "breach", "breach of contract", "liquidated damages"],
+  "medium": ["fee", "charge", "refund", "non-refundable", "late", "renewal"],
+  "low": ["notice", "governing law", "confidential"]
+}

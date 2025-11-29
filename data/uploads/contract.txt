@@ -1,0 +1,77 @@
+SOFTWARE DEVELOPMENT AGREEMENT
+
+This Software Development Agreement (“Agreement”) is made and entered into on January 15th, 2025 
+between:
+
+1. CLIENT: NovaTech Solutions Pvt. Ltd. (“Client”)
+2. DEVELOPER: AlphaCode Labs (“Developer”)
+
+Both parties agree to the following:
+
+-------------------------------------------------------
+1. SCOPE OF WORK
+The Developer agrees to design, build, and deploy a custom Inventory Management System (IMS). 
+The deliverables include:
+   • Admin dashboard
+   • Inventory tracking module
+   • Reporting & analytics module
+   • Role-based authentication
+   • API integration with existing ERP
+
+Any additional feature requests not listed above will require a Change Request with updated cost.
+
+-------------------------------------------------------
+2. PAYMENT TERMS
+2.1 Total contract price: USD 12,500  
+2.2 40% upfront, 40% after beta delivery, 20% after deployment.  
+2.3 Late payments exceeding 10 days will incur a 5% penalty per week.  
+2.4 All payments are non-refundable once a milestone has been delivered.
+
+-------------------------------------------------------
+3. TIMELINE & DELAYS
+3.1 Estimated project duration: 12 weeks.  
+3.2 Developer is not responsible for delays caused by Client’s failure to provide timely feedback, 
+credentials, or required materials.  
+3.3 If delays exceed 20 days due to the Client, Developer may charge an additional fee of USD 70/day.
+
+-------------------------------------------------------
+4. INTELLECTUAL PROPERTY RIGHTS
+4.1 All code, designs, and assets remain the Developer’s property until final payment is received.  
+4.2 Upon full payment, the Developer grants the Client complete ownership of the final deliverables.  
+4.3 The Developer may retain the right to reuse non-client-specific components and libraries.
+
+-------------------------------------------------------
+5. WARRANTY & LIMITATIONS
+5.1 The Developer provides a 30-day warranty for bug fixes after final delivery.  
+5.2 The Developer does NOT guarantee:  
+   • Zero downtime  
+   • Protection from all cyber-attacks  
+   • Compatibility with outdated devices or browsers  
+5.3 The Developer shall not be liable for loss of profit, business interruption, or data loss.
+
+-------------------------------------------------------
+6. CONFIDENTIALITY
+Both parties agree not to disclose proprietary information, internal systems, API keys, 
+financial data, or business strategies. This clause survives termination of the Agreement.
+
+-------------------------------------------------------
+7. TERMINATION
+7.1 Either party may terminate this Agreement with 7 days written notice.  
+7.2 If the Client terminates before completion, the upfront payment will not be refunded.  
+7.3 If the Developer terminates without valid cause, the Client will be refunded unused portions of the fee.
+
+-------------------------------------------------------
+8. SUPPORT & MAINTENANCE
+8.1 Post-delivery support beyond the 30-day warranty period is not included.  
+8.2 Long-term maintenance may be offered at USD 300/month under a separate contract.
+
+-------------------------------------------------------
+9. GOVERNING LAW
+This Agreement is governed by the laws of the State of California.
+
+-------------------------------------------------------
+SIGNATURES
+
+Client: ____________________   Date: __________
+
+Developer: __________________ Date: __________

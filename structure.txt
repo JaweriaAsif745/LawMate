@@ -1,0 +1,58 @@
+Lawmate/
+│
+├── app/                       # Frontend (Streamlit App)
+│   ├── main.py                # Main Streamlit UI
+│   ├── pages/
+│   │   ├── summary.py
+│   │   ├── clause_analysis.py
+│   │   ├── qa_chatbot.py
+│   │   └── upload_view.py
+│   └── components/
+│       ├── highlights.py      # text highlight renderer
+│       ├── sidebar.py
+│       └── layout.py
+│
+├── backend/                   # Backend logic + utilities
+│   ├── parser/
+│   │   ├── pdf_extractor.py   # Extract text from PDF
+│   │   ├── docx_extractor.py  # Extract text from Word
+│   │   └── clean_text.py      # Cleaning, section splitting
+│   │
+│   ├── nlp/
+│   │   ├── clause_splitter.py # Splits contract into clauses
+│   │   ├── risk_rules.py      # Keyword/regex rules for risk
+│   │   ├── embeddings.py      # Sentence transformers embeddings
+│   │   ├── search_engine.py   # Clause search engine (semantic)
+│   │   └── llm_client.py      # GPT/Llama API requests
+│   │
+│   ├── analysis/
+│   │   ├── summarizer.py      # LLM-based summarization
+│   │   ├── risk_detector.py   # Combines rules + embeddings
+│   │   └── qa_engine.py       # Answer questions about contract
+│   │
+│   └── utils/
+│       ├── file_reader.py
+│       └── config.py          # Keys, settings
+│
+├── models/                    # Pretrained ML/NLP models
+│   ├── embeddings/            # sentence-transformers cached here
+│   └── rules/                 # JSON files with risk keywords etc.
+│
+├── data/                      # User uploaded documents
+│   ├── uploads/
+│   └── processed/
+│
+├── tests/                     # Unit tests if needed
+│   ├── test_parser.py
+│   ├── test_risk.py
+│   ├── test_splitter.py
+│   └── test_search.py
+│
+├── docs/                      # Documentation, diagrams
+│   ├── architecture.png
+│   ├── pipeline.md
+│   └── README_assets/
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
