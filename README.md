@@ -161,21 +161,21 @@ RESULT PHOTOS/
    └── summary_output.PNG
 ```
 
-Then in README:
-
 ### 📸 **Screenshots**
 
 #### **1️⃣ Input Screen**
 
-<img src="RESULT PHOTOS/input.PNG" width="700">
+<img width="943" height="279" alt="input" src="https://github.com/user-attachments/assets/dbc3bd7e-d978-42bd-8ce6-46b636a87f4f" />
+
 
 #### **2️⃣ Highlighted Risky Clauses**
 
-<img src="RESULT PHOTOS/highlighted_output.PNG" width="700">
+<img width="928" height="430" alt="clauses" src="https://github.com/user-attachments/assets/a1b1ff48-8182-422d-a760-73a630176103" />
 
 #### **3️⃣ Summary & Q/A Panel**
 
-<img src="RESULT PHOTOS/summary_output.PNG" width="700">
+<img width="915" height="429" alt="summary + question" src="https://github.com/user-attachments/assets/59a69412-6662-40ab-b727-b25c01f1995d" />
+
 
 ---
 
@@ -230,3 +230,4 @@ Pull requests are welcome!
 MIT License.
 
 ---
+
