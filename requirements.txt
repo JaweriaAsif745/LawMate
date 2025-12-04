@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+python-docx
+PyPDF2
+sentence-transformers==2.2.2
+transformers==4.40.0
+tf-keras
+scikit-learn
+regex
+tqdm
+requests
