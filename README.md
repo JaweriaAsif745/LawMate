@@ -14,7 +14,7 @@ Built using **Python, Streamlit, Sentence Transformers, and rule-based NLP**.
 
 ---
 
-# ⭐ **Features**
+# ⭐**Features**
 
 ### 🔍 **1. Smart Contract Text Extraction**
 
@@ -230,4 +230,5 @@ Pull requests are welcome!
 MIT License.
 
 ---
+
 
