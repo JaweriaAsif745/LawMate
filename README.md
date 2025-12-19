@@ -1,4 +1,4 @@
-⚖️ **LawMate — AI Contract Analyzer (NLP + Risk Detection + Summarization)**
+⚖️ **LawMate  —  AI Contract Analyzer (NLP + Risk Detection + Summarization)**
 
 LawMate is an AI-powered contract analysis tool that helps users **understand, summarize, and evaluate legal documents**.
 It automatically:
@@ -230,5 +230,6 @@ Pull requests are welcome!
 MIT License.
 
 ---
+
 
 
